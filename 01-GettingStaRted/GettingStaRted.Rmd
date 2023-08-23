@@ -31,14 +31,14 @@ There are many things you can do with R, but for our class, we should only focus
 R can be used as a basic calculator.
 
 ```{r basic}
-
+5 + 8
 ```
 
 We can also store our operations into variables. We can reference those variables later.
 
 
 ```{r variables}
-
+5 + 8
 ```
 
 ## Using Functions and Packages
